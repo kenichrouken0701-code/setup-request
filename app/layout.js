@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'セットアップ依頼',
-  description: 'セットアップ依頼アプリ',
+  title: 'セットアップシート',
+  description: 'セットアップシートアプリ',
 };
 
 export default function RootLayout({ children }) {
